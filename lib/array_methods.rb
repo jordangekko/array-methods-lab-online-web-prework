@@ -7,11 +7,10 @@ end
 
   famous_cats = ["Hello Kitty", "Simba", "Heathcliff"]
   famous_cats.sort
-
 end
 
-def using_reverse(array)
-
+  famous_men = ["Jordan", "Jackson", "Tyson"]
+  famous_men.reverse
 end
 
 def using_first(array)
