@@ -10,10 +10,11 @@ end
 end
 
   famous_men = ["Jordan", "Jackson", "Tyson"]
-  famous_men.reverse
+  famous_men.revese
 end
-
-def using_first(array)
+  
+  famous_men = ["Jordan", "Jackson", "Tyson"]
+  famous_men.first
 
 end
 
