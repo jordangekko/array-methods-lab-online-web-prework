@@ -4,10 +4,9 @@
   famous_cats.include?("Simba")
 end
 
-def using_sort(array)
+
   famous_cats = ["Hello Kitty", "Simba", "Heathcliff"]
-  famous_cats.include?("Garfield")
-  famous_cats.include?("Simba
+  famous_cats.sort
 
 end
 
