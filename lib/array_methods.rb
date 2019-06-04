@@ -18,10 +18,10 @@ end
 
 end
 
-def using_last(array)
-
+  famous_men = ["Jordan", "Jackson", "Tyson"]
+  famous_men.last
 end
 
-def using_size(array)
-
+  famous_men = ["Jordan", "Jackson", "Tyson"]
+  famous_men.size
 end
